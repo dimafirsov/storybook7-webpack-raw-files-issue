@@ -4,7 +4,7 @@
 - Execute `npm create vite` to start Vite prompt
 - Choose `React` an `Typescript` when prompted
 - Once the project is created, install the latest Storybook 7 - `npx storybook@latest init`
-- Crete `.babelrc` file in the root of the project to make typescript work. The file contents are the following:
+- Create `.babelrc` file in the root of the project to make typescript work. The file contents are the following:
 
 ```json
 {
